@@ -1,7 +1,7 @@
 ## Oi eu sou a Jaque, desenvolvedora Frond-end!
-<div align="right">
+<div align="center">
   <a href="https://github.com/scallopc">
-  <img height="170em" width="100em" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scallopc&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div><br>
