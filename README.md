@@ -1,8 +1,8 @@
 ## Oi eu sou a Jaque, desenvolvedora Frond-end!
 <div>
   <a href="https://github.com/scallopc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scallopc&layout=compact&langs_count=7&theme=swift"/>
+  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scallopc&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,10 +16,5 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/jaquelinepcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ![Snake animation](https://github.com/scallopc/scallopc/blob/output/github-contribution-grid-snake.svg)
-
-  
+   ![Snake animation](https://github.com/scallopc/scallopc/blob/output/github-contribution-grid-snake.svg) 
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
