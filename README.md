@@ -21,3 +21,5 @@
 
   
 </div>
+  [![Cartão Leiame](https://github-readme-stats.vercel.app/api/pin/ ?username=scallopc&repo=github-readme-stats )](https://github.com/anuraghazra/github- readme-stats)
+
