@@ -1,4 +1,4 @@
-## Oi eu sou a Jaque, desenvolvedora Frond-end!
+## Oi eu sou a Jaque, desenvolvedora Front-end!
 <div>
   <a href="https://github.com/scallopc">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
