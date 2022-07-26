@@ -1,10 +1,10 @@
 <h1>👋 &nbsp;Olá</h1>
- <!-- 
+
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=scallopc&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scallopc&layout=compact&langs_count=7&theme=swift"/>
 </div>
--->
+
 <br>
   
  <h3>💻 &nbsp;Front-end:</h3>
